@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="media_button_width">100dp</dimen>
+    <dimen name="media_button_height">75dp</dimen>
+    <dimen name="fullscreen_button_width">50dp</dimen>
+    <dimen name="fullscreen_button_height">35dp</dimen>
+</resources>
